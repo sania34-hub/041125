@@ -21,6 +21,7 @@ Hasil ditampilkan dengan System.out.println
 
 
 SOAL SEDANG
+
 NO. 1 
 Program meminta pengguna memasukkan bilangan bulat positif, lalu menggunakan perulangan for untuk menghitung faktorialnya.
 Nilai awal faktorial = 1, kemudian dikalikan terus dengan setiap angka dari 1 sampai n.
